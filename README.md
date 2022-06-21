@@ -1,5 +1,5 @@
-<img src="./WUCT_Fig1_Habitat.png" align="right" />
 # WUCT
+<img src="./WUCT_Fig1_Habitat.png" align="right" />
 Watershed-Scale Upstream Connectivity Toolkit
 
 
