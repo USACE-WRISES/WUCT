@@ -1,9 +1,8 @@
 # WUCT
 <div>
-    Project repository for Watershed-Scale Upstream Connectivity Toolkit
     <img src="./WUCT_Fig1_Habitat.png" width=250 align="right" />
 <div/>
-
+Project repository for Watershed-Scale Upstream Connectivity Toolkit
 
 
 
