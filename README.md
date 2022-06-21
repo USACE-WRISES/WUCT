@@ -14,13 +14,7 @@ This model document describes a procedure for quantifying benefits associated wi
 ------------------------------------------------------------------------
 
 ## Read the report
-[Watershed-Scale Upstream Connectivity Toolkit](https://github.com/USACE-WRISES/WUCT/blob/main/WUCT_EcoMod_2018-09-19.Rmd)
-
-------------------------------------------------------------------------
-
-## Funding
-
-Funding for development ...
+[Watershed-Scale Upstream Connectivity Toolkit](./main/WUCT_EcoMod_2018-09-19.Rmd)
 
 ------------------------------------------------------------------------
 
