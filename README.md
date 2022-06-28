@@ -12,7 +12,7 @@ WUCT quantifies benefits associated with removal of organism movement barriers w
 ------------------------------------------------------------------------
 
 ## Read the Report
-[Watershed-Scale Upstream Connectivity Toolkit](./WUCT_EcoMod_2018-09-19 (1).html)
+[Watershed-Scale Upstream Connectivity Toolkit](./WUCT_EcoMod_2018-09-19.Rmd)
 
 ------------------------------------------------------------------------
 
